@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-An engineer trying to understand artificial intelligence and put it to good use. I am interested in computer vision, continual learning, reinforcement learning, continual learning and multi-agent systems. Currently working as a Senior deep learning research engineer at [Endimension](https://www.endimension.com/). 
+An engineer trying to understand artificial intelligence and put it to good use. I am interested in computer vision, continual learning, reinforcement learning and multi-agent systems. Currently working as a Senior deep learning research engineer at [Endimension](https://www.endimension.com/). 
