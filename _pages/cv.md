@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science, UIET, Punjab university, 2013
+* M.Tech. in Computer Science, IITB, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2020 - Now: Senior Deep Learning Research Engineer
+  * [Endimension](https://www.endimension.com/), Mumbai, India
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr 2019 - Sep 2020: Semior Data Scientist and Machine Learning Engineer
+  * [Yahoo!Japan](https://www.yahoo.co.jp/), Tokyo, Japan
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Oct 2017 - Apr 2019: Data Scientist and Machine Learning Engineer
+  * [Yahoo!Japan](https://www.yahoo.co.jp/), Tokyo, Japan
+
+* June 2013 - May 2014: Software engineer, Nokia & Seimens R&D
+  * [Altran](https://www.altran.com/in/en//), Gurugram, India
